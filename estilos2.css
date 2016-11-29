@@ -1,0 +1,7 @@
+.aprobado{
+	border:2px solid green;
+}
+
+.noaprobado{
+	border:2px solid red;
+}
